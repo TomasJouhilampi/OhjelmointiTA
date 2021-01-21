@@ -1,2 +1,3 @@
 # OhjelmointiTA
-Harjoitusrepositiorio dokumentointia varten
+Harjoitusrepositiorio dokumentointia varten. Reposiotoriossa on ohjeet
+ 
