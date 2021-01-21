@@ -1,0 +1,2 @@
+# OhjelmointiTA
+Harjoitusrepositiorio dokumentointia varten
